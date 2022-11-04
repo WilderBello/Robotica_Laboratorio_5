@@ -20,6 +20,11 @@ Para la implementación de la cinemática inversa, se realizó la programación 
 
 ![](https://github.com/WilderBello/Robotica_Laboratorio_5/blob/main/Images/Cinematica_Inversa.png)
 
+
+El script desarrollado tiene el siguiente menú en el cual espera una entrada (input) de tipo entero para acceder a cada una de las rutinas:
+
+![](https://github.com/WilderBello/Robotica_Laboratorio_5/blob/main/Images/Rutina.png)
+
 Posteriormente se generó la cantidad de puntos para cada una de las rutinas:
 
 - Recoger marcador
