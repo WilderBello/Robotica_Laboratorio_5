@@ -80,3 +80,10 @@ La implementación del código se puede observar en el video:
 
 [Implementación Cinemática Inversa](https://www.youtube.com/watch?v=ktwIJOaMfWQ&ab_channel=JavierEduardoGutierrezSerrqno)
 # [![Alt text](https://img.youtube.com/vi/ktwIJOaMfWQ/0.jpg)](https://www.youtube.com/watch?v=ktwIJOaMfWQ)
+
+## Verificación Dimensional
+
+Finalmente, con el trazado de las trayectorias y la trayectoria previamente definida se determina la verificación de la trayectoria generada en la implementación.
+
+![](https://github.com/WilderBello/Robotica_Laboratorio_5/blob/main/IMG.%20Laboratorio%20N%C2%B005/Error.png)
+![](https://github.com/WilderBello/Robotica_Laboratorio_5/blob/main/IMG.%20Laboratorio%20N%C2%B005/Error2.png)
