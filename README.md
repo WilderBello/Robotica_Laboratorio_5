@@ -26,6 +26,8 @@ Con estos datos se procede a determinar los marcos y parámetros del manipulador
 
 Con estos datos se realiza la obtención de las ecuaciones de las articulaciones 1, 2, 3 y 4 del manipulador con el fin de que al darsele un punto (x,y,z) se obtengan los valores de las articulaciones que permiten llegar a esta posición.
 
+![](https://github.com/WilderBello/Robotica_Laboratorio_5/blob/main/Images/ci.png)
+
 
 
 ## ROS con Python
