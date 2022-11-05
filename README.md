@@ -104,11 +104,12 @@ Por lo tanto, se tiene un error porcentual promedio de los datos de 33.4 %, y la
 ![Análisis para una línea paralela P1](https://github.com/WilderBello/Robotica_Laboratorio_5/blob/main/IMG.%20Laboratorio%20N%C2%B005/p1.png)
 ![](https://github.com/WilderBello/Robotica_Laboratorio_5/blob/main/IMG.%20Laboratorio%20N%C2%B005/Errorp1.png)
 
+![Análisis para una línea paralela P2](https://github.com/WilderBello/Robotica_Laboratorio_5/blob/main/IMG.%20Laboratorio%20N%C2%B005/p2.png)
+
 ![Análisis para una línea paralela P3](https://github.com/WilderBello/Robotica_Laboratorio_5/blob/main/IMG.%20Laboratorio%20N%C2%B005/p3.png)
 ![](https://github.com/WilderBello/Robotica_Laboratorio_5/blob/main/IMG.%20Laboratorio%20N%C2%B005/Errorp3.png)
 
 
-![]()
 ![]()
 ![]()
 ![]()
