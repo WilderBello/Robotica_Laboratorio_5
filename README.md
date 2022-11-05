@@ -83,6 +83,9 @@ La implementación del código se puede observar en el video:
 
 ## Verificación Dimensional
 
+![](https://github.com/WilderBello/Robotica_Laboratorio_5/blob/main/IMG.%20Laboratorio%20N%C2%B005/TR.jpg)
+![](https://github.com/WilderBello/Robotica_Laboratorio_5/blob/main/IMG.%20Laboratorio%20N%C2%B005/TR1.jpg)
+
 Finalmente, con el trazado de las trayectorias y la trayectoria previamente definida se determina la verificación de la trayectoria generada en la implementación.
 
 ![](https://github.com/WilderBello/Robotica_Laboratorio_5/blob/main/IMG.%20Laboratorio%20N%C2%B005/Error.png)
@@ -112,8 +115,15 @@ Por lo tanto, se tiene un error porcentual promedio de los datos de 33.4 %, y la
 ![Análisis para una línea paralela P3](https://github.com/WilderBello/Robotica_Laboratorio_5/blob/main/IMG.%20Laboratorio%20N%C2%B005/p3.png)
 ![](https://github.com/WilderBello/Robotica_Laboratorio_5/blob/main/IMG.%20Laboratorio%20N%C2%B005/Errorp3.png)
 
+El error dimensional de las trayectorias del manipulador con respecto a la trayectoria a seguir depende de la cercania al limite externo alcanzable del manipulador, a demas, depende de la cantidad de puntos de la trayectoria y la longitud de las mismas. Desl mismo modo, se realiza el análisis  para el ángulo existente entre puntos de la trayectoria de referencia generada y la trayectoria realizada por el manipulador.
 
-![]()
-![]()
-![]()
-![]()
+#Análisis de error angulo - Letra W
+![](https://github.com/WilderBello/Robotica_Laboratorio_5/blob/main/IMG.%20Laboratorio%20N%C2%B005/Aw.png)
+![](https://github.com/WilderBello/Robotica_Laboratorio_5/blob/main/IMG.%20Laboratorio%20N%C2%B005/aw.png)
+
+#Análisis de error ángulo - Letra J
+![](https://github.com/WilderBello/Robotica_Laboratorio_5/blob/main/IMG.%20Laboratorio%20N%C2%B005/aj.png)
+
+#Análisis de error ángulo - Figuras
+![](https://github.com/WilderBello/Robotica_Laboratorio_5/blob/main/IMG.%20Laboratorio%20N%C2%B005/af.png)
+![](https://github.com/WilderBello/Robotica_Laboratorio_5/blob/main/IMG.%20Laboratorio%20N%C2%B005/AF.png)
