@@ -76,4 +76,4 @@ Finalmente, el trazado de las trayectorias fue el siguiente:
 
 La implementación del código se puede observar en el video:
 
-![Ver el video](https://drive.google.com/file/d/1WhTPV6rfoY3DFIj117vyRS2vMmLFnTv2/view?usp=sharing)
+[![Ver el video](https://drive.google.com/file/d/1WhTPV6rfoY3DFIj117vyRS2vMmLFnTv2/view?usp=sharing)](https://drive.google.com/file/d/1WhTPV6rfoY3DFIj117vyRS2vMmLFnTv2/view?usp=sharing)
