@@ -77,3 +77,6 @@ Finalmente, el trazado de las trayectorias fue el siguiente:
 La implementación del código se puede observar en el video:
 
 [![Ver el video](https://drive.google.com/file/d/1WhTPV6rfoY3DFIj117vyRS2vMmLFnTv2/view?usp=sharing)](https://drive.google.com/file/d/1WhTPV6rfoY3DFIj117vyRS2vMmLFnTv2/view?usp=sharing)
+
+[Implementación Cinemática Inversa](https://www.youtube.com/watch?v=ktwIJOaMfWQ&ab_channel=JavierEduardoGutierrezSerrqno)
+# [![Alt text](https://img.youtube.com/vi/ktwIJOaMfWQ/0.jpg)](https://www.youtube.com/watch?v=ktwIJOaMfWQ)
