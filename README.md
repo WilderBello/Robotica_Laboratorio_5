@@ -12,6 +12,20 @@ El laboratorio 5 - Cinemática Inversa, tiene como objetivo determinar inicialme
 Para la solución propuesta se partió inicialmente del cálculo de la cinemática inversa del robot, de la siguiente manera:
 
 ## Cinemática Inversa
+Para la implementación del laboratorio, realizaron las mediciones de longitudes de cada eslabón para posteriormente obtener el diagrama del robot y los parámetros DH, contrastando con los valores obtenidos del datasheet del fabricante del manipulador.
+
+![](https://github.com/WilderBello/Robotica_Laboratorio_4/blob/main/MatLab/Imagenes/Space_Work.png)
+
+Con estos datos se procede a determinar los marcos y parámetros del manipulador de acuerdo con la convención Denavit-Hartenber estandar.
+
+![](https://github.com/WilderBello/Robotica_Laboratorio_4/blob/main/MatLab/Imagenes/Marcos_DH1.png)
+
+- Parámetros DH
+
+![](https://github.com/WilderBello/Robotica_Laboratorio_4/blob/main/MatLab/Imagenes/DH.png)
+
+Con estos datos se realiza la obtención de las ecuaciones de las articulaciones 1, 2, 3 y 4 del manipulador con el fin de que al darsele un punto (x,y,z) se obtengan los valores de las articulaciones que permiten llegar a esta posición.
+
 
 
 ## ROS con Python
