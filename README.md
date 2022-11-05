@@ -87,3 +87,29 @@ Finalmente, con el trazado de las trayectorias y la trayectoria previamente defi
 
 ![](https://github.com/WilderBello/Robotica_Laboratorio_5/blob/main/IMG.%20Laboratorio%20N%C2%B005/Error.png)
 ![](https://github.com/WilderBello/Robotica_Laboratorio_5/blob/main/IMG.%20Laboratorio%20N%C2%B005/Error2.png)
+
+Usando el softwware de análisis de imagen se determina el error dimensional del limite inferior generado por medio del manipulador y el limite inferior generado por medio de puntos en el software Autocad.
+
+![](https://github.com/WilderBello/Robotica_Laboratorio_5/blob/main/IMG.%20Laboratorio%20N%C2%B005/ErrorL1.png)
+![](https://github.com/WilderBello/Robotica_Laboratorio_5/blob/main/IMG.%20Laboratorio%20N%C2%B005/ErrorL2.png)
+
+Para el análisis se toman 22 puntos de comparación para determinar el error longitudinal con respecto al centro del espacio de trabajo.
+
+![](https://github.com/WilderBello/Robotica_Laboratorio_5/blob/main/IMG.%20Laboratorio%20N%C2%B005/An%C3%A1lisisE_L.png)
+
+Por lo tanto, se tiene un error porcentual promedio de los datos de 33.4 %, y la desviación estandar del conjunto de datos es:
+
+![](https://github.com/WilderBello/Robotica_Laboratorio_5/blob/main/IMG.%20Laboratorio%20N%C2%B005/desv1.png)
+
+![Análisis para una línea paralela P1](https://github.com/WilderBello/Robotica_Laboratorio_5/blob/main/IMG.%20Laboratorio%20N%C2%B005/p1.png)
+![](https://github.com/WilderBello/Robotica_Laboratorio_5/blob/main/IMG.%20Laboratorio%20N%C2%B005/Errorp1.png)
+
+![Análisis para una línea paralela P3](https://github.com/WilderBello/Robotica_Laboratorio_5/blob/main/IMG.%20Laboratorio%20N%C2%B005/p3.png)
+![](https://github.com/WilderBello/Robotica_Laboratorio_5/blob/main/IMG.%20Laboratorio%20N%C2%B005/Errorp3.png)
+
+
+![]()
+![]()
+![]()
+![]()
+![]()
